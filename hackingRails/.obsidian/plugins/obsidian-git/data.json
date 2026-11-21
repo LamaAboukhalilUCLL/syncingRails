@@ -1,0 +1,11 @@
+{
+  "commitMessage": "vault: {{hostname}} {{date}}",
+  "autoCommitMessage": "vault: {{hostname}} {{date}}",
+  "autoSaveInterval": 5,
+  "autoPullInterval": 5,
+  "autoPullOnBoot": true,
+  "autoBackupAfterFileChange": true,
+  "pullBeforePush": true,
+  "syncMethod": "merge",
+  "showedMobileNotice": true
+}

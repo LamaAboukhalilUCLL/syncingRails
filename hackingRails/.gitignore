@@ -1,0 +1,24 @@
+# Secrets: NEVER commit keys
+.env
+.env.*
+!.env.example
+
+# Obsidian: per-person window layout (would cause conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Code build output
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini

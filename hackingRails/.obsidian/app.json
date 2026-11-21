@@ -1,0 +1,9 @@
+{
+  "userIgnoreFilters": [
+    "app/node_modules/",
+    "app/.next/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "05 Build log",
+  "alwaysUpdateLinks": true
+}
